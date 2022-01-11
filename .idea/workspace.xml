@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f053f53c-1db3-4f4c-a9a7-cbeb4bc207e2" name="Default Changelist" comment="" />
+    <list default="true" id="f053f53c-1db3-4f4c-a9a7-cbeb4bc207e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dishes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/img.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qwerty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1 hw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1zP8Fb5cBcfYp64w6vILKvDF2HI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +39,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Task`.py" />
   </component>
-  <component name="RunManager" selected="Python.Files">
+  <component name="RunManager" selected="Python.img">
     <configuration name="Files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="3numbers" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="3numbers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +115,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Users\akhusaenov2023\PycharmProjects\3numbers\file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="3numbers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/img.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,34 +166,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="3numbers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.img" />
+        <item itemvalue="Python.file (1)" />
         <item itemvalue="Python.Files" />
         <item itemvalue="Python.Restourant" />
         <item itemvalue="Python.task2" />
-        <item itemvalue="Python.file" />
-        <item itemvalue="Python.task3" />
       </list>
     </recent_temporary>
   </component>
@@ -204,26 +218,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1638536066964" />
-    <state width="1899" height="271" key="GridCell.Tab.0.bottom" timestamp="1640185103463">
+    <state width="1899" height="271" key="GridCell.Tab.0.bottom" timestamp="1641899135184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="254" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1638615491393" />
-    <state width="1899" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1640185103463" />
-    <state width="1899" height="271" key="GridCell.Tab.0.center" timestamp="1640185103463">
+    <state width="1899" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1641899135184" />
+    <state width="1899" height="271" key="GridCell.Tab.0.center" timestamp="1641899135184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="254" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1638615491393" />
-    <state width="1899" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1640185103463" />
-    <state width="1899" height="271" key="GridCell.Tab.0.left" timestamp="1640185103463">
+    <state width="1899" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1641899135184" />
+    <state width="1899" height="271" key="GridCell.Tab.0.left" timestamp="1641899135184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="254" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1638615491393" />
-    <state width="1899" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1640185103463" />
-    <state width="1899" height="271" key="GridCell.Tab.0.right" timestamp="1640185103463">
+    <state width="1899" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1641899135184" />
+    <state width="1899" height="271" key="GridCell.Tab.0.right" timestamp="1641899135184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="254" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1638615491393" />
-    <state width="1899" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1640185103463" />
+    <state width="1899" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1641899135184" />
     <state width="1899" height="346" key="GridCell.Tab.1.bottom" timestamp="1640182396288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -244,11 +258,11 @@
     </state>
     <state width="1259" height="324" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1638613548248" />
     <state width="1899" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1640182396288" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1640351324172">
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1641897844709">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="437" y="325" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1638612382176" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640351324172" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1641897844709" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
